@@ -1,0 +1,9 @@
+.image-container {
+  position: relative;
+}
+
+.checkbox-container {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+}
